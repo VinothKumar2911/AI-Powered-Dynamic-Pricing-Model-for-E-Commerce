@@ -10,7 +10,7 @@ This project implements an AI-based dynamic pricing model for e-commerce product
 ## 🛠️ Tech Stack:
 - **Frontend:** React.js
 - **Backend:** Flask
-- **Database:** PostgreSQL
+- **Database:** MYSQL
 - **Machine Learning:** Scikit-learn
 - **Styling:** CSS for a responsive design
 
