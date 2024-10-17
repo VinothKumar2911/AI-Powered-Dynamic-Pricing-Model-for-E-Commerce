@@ -1,4 +1,4 @@
-# 🌟 AI-Powered Dynamic Pricing Model for E-Commerce 🌟
+# 🌟AI-Powered Dynamic Pricing Model for E-Commerce🌟 
 
 ## 🚀 Overview:
 This project implements an AI-based dynamic pricing model for e-commerce products, helping businesses maximize revenue by adjusting prices in real-time based on various factors.
