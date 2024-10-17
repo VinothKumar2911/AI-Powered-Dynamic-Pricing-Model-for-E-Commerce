@@ -24,7 +24,5 @@ This project implements an AI-based dynamic pricing model for e-commerce product
 - Expand the product database for better training data.
 - Improve UI for a seamless user experience.
 
-## 🔗 Live Demo: [Link to your live project or GitHub repository]
-
 ## 🛠️ Learnings:
 This project deepened my understanding of dynamic pricing strategies and machine learning applications in e-commerce. I'm excited to continue exploring this fascinating field!
